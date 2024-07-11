@@ -1,0 +1,20 @@
+That’s great! Design patterns are very useful for solving common software design problems. Here’s a simple project idea where you can apply some of the design patterns you’ve learned:
+
+Project: A Simple Inventory Management System
+
+This system will manage products in a store’s inventory. Here’s a high-level overview of the classes and their responsibilities:
+
+Product: This class represents a product in the inventory. It should have properties like productID, productName, price, and quantity.
+
+Inventory: This class represents the store’s inventory. It should have methods to addProduct, removeProduct, and findProduct by productID. It should also have a method to displayInventory which prints all the products in the inventory.
+
+Now, let’s incorporate some design patterns:
+
+Singleton Pattern: Ensure that there is only one Inventory instance in the whole application. This is a good use case for the Singleton pattern.
+
+Factory Pattern: When adding new products to the inventory, use a ProductFactory to create new Product instances.
+
+Observer Pattern: Implement a RestockNotifier that observes the Inventory. Whenever a product’s quantity drops below a certain threshold, the RestockNotifier should alert the store to restock.
+
+Strategy Pattern: Implement different discount strategies (e.g., NoDiscount, SeasonalDiscount, ClearanceDiscount) and allow the Product’s price to be determined by a DiscountStrategy.
+
