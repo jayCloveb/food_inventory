@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory/out/build/mypreset"
+			"value" : "c:/Users/juanc/Documents/GitHub/food_inventory/out/build/mypreset"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -591,7 +591,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory/out/build/mypreset/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/juanc/Documents/GitHub/food_inventory/out/build/mypreset/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -663,7 +663,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory"
+			"value" : "C:/Users/juanc/Documents/Github/food_inventory"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -675,7 +675,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory/out/install/mypreset"
+			"value" : "C:/Users/juanc/Documents/GitHub/food_inventory/out/install/mypreset"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1430,6 +1430,22 @@
 			"value" : "1500"
 		},
 		{
+			"name" : "GITCOMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/Git/cmd/git.exe"
+		},
+		{
 			"name" : "MAKECOMMAND",
 			"properties" : 
 			[
@@ -1503,7 +1519,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory/out/build/mypreset"
+			"value" : "C:/Users/juanc/Documents/GitHub/food_inventory/out/build/mypreset"
 		},
 		{
 			"name" : "SimpleInventory_IS_TOP_LEVEL",
@@ -1527,7 +1543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory"
+			"value" : "C:/Users/juanc/Documents/GitHub/food_inventory"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

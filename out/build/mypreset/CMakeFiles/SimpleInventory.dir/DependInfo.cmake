@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory/inventory.cpp" "CMakeFiles/SimpleInventory.dir/inventory.cpp.obj" "gcc" "CMakeFiles/SimpleInventory.dir/inventory.cpp.obj.d"
-  "C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory/main.cpp" "CMakeFiles/SimpleInventory.dir/main.cpp.obj" "gcc" "CMakeFiles/SimpleInventory.dir/main.cpp.obj.d"
-  "C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory/product.cpp" "CMakeFiles/SimpleInventory.dir/product.cpp.obj" "gcc" "CMakeFiles/SimpleInventory.dir/product.cpp.obj.d"
+  "C:/Users/juanc/Documents/GitHub/food_inventory/inventory.cpp" "CMakeFiles/SimpleInventory.dir/inventory.cpp.obj" "gcc" "CMakeFiles/SimpleInventory.dir/inventory.cpp.obj.d"
+  "C:/Users/juanc/Documents/GitHub/food_inventory/main.cpp" "CMakeFiles/SimpleInventory.dir/main.cpp.obj" "gcc" "CMakeFiles/SimpleInventory.dir/main.cpp.obj.d"
+  "C:/Users/juanc/Documents/GitHub/food_inventory/product.cpp" "CMakeFiles/SimpleInventory.dir/product.cpp.obj" "gcc" "CMakeFiles/SimpleInventory.dir/product.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

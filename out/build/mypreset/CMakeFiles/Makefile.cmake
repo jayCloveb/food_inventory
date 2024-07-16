@@ -33,7 +33,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-windres.cmake"
   "C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows.cmake"
   "C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake"
-  "C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory/CMakeLists.txt"
+  "C:/Users/juanc/Documents/GitHub/food_inventory/CMakeLists.txt"
   "CMakeFiles/3.30.0-rc4/CMakeCCompiler.cmake"
   "CMakeFiles/3.30.0-rc4/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.30.0-rc4/CMakeRCCompiler.cmake"

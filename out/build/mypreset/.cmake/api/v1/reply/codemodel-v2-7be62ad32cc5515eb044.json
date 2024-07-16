@@ -301,8 +301,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory/out/build/mypreset",
-		"source" : "C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory"
+		"build" : "C:/Users/juanc/Documents/GitHub/food_inventory/out/build/mypreset",
+		"source" : "C:/Users/juanc/Documents/GitHub/food_inventory"
 	},
 	"version" : 
 	{

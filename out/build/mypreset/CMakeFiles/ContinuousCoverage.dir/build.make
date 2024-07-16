@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory
+CMAKE_SOURCE_DIR = C:\Users\juanc\Documents\GitHub\food_inventory
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\out\build\mypreset
+CMAKE_BINARY_DIR = C:\Users\juanc\Documents\GitHub\food_inventory\out\build\mypreset
 
 # Utility rule file for ContinuousCoverage.
 
@@ -81,6 +81,6 @@ CMakeFiles/ContinuousCoverage.dir/clean:
 .PHONY : CMakeFiles/ContinuousCoverage.dir/clean
 
 CMakeFiles/ContinuousCoverage.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\out\build\mypreset C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\out\build\mypreset C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\out\build\mypreset\CMakeFiles\ContinuousCoverage.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\juanc\Documents\GitHub\food_inventory C:\Users\juanc\Documents\GitHub\food_inventory C:\Users\juanc\Documents\GitHub\food_inventory\out\build\mypreset C:\Users\juanc\Documents\GitHub\food_inventory\out\build\mypreset C:\Users\juanc\Documents\GitHub\food_inventory\out\build\mypreset\CMakeFiles\ContinuousCoverage.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/ContinuousCoverage.dir/depend
 

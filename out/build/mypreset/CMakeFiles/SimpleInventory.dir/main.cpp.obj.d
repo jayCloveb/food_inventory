@@ -1,6 +1,6 @@
 CMakeFiles/SimpleInventory.dir/main.cpp.obj: \
- C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\main.cpp \
- C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\product.h \
+ C:\Users\juanc\Documents\GitHub\food_inventory\main.cpp \
+ C:\Users\juanc\Documents\GitHub\food_inventory\product.h \
  C:/msys64/ucrt64/include/stdio.h \
  C:/msys64/ucrt64/include/corecrt_stdio_config.h \
  C:/msys64/ucrt64/include/corecrt.h C:/msys64/ucrt64/include/_mingw.h \
@@ -137,14 +137,14 @@ CMakeFiles/SimpleInventory.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/ostream.tcc \
  C:/msys64/ucrt64/include/c++/13.1.0/istream \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/istream.tcc \
- C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\subject.h \
+ C:\Users\juanc\Documents\GitHub\food_inventory\subject.h \
  C:/msys64/ucrt64/include/c++/13.1.0/vector \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_uninitialized.h \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_vector.h \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_bvector.h \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/vector.tcc \
- C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\iobserver.h \
- C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\productFactory.h \
+ C:\Users\juanc\Documents\GitHub\food_inventory\iobserver.h \
+ C:\Users\juanc\Documents\GitHub\food_inventory\productFactory.h \
  C:/msys64/ucrt64/include/c++/13.1.0/memory \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_tempbuf.h \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_raw_storage_iter.h \
@@ -163,7 +163,7 @@ CMakeFiles/SimpleInventory.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.1.0/backward/auto_ptr.h \
  C:/msys64/ucrt64/include/c++/13.1.0/pstl/glue_memory_defs.h \
  C:/msys64/ucrt64/include/c++/13.1.0/pstl/execution_defs.h \
- C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\inventory.h \
+ C:\Users\juanc\Documents\GitHub\food_inventory\inventory.h \
  C:/msys64/ucrt64/include/c++/13.1.0/mutex \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/chrono.h \
  C:/msys64/ucrt64/include/c++/13.1.0/ratio \

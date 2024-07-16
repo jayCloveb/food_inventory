@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory
+CMAKE_SOURCE_DIR = C:\Users\juanc\Documents\GitHub\food_inventory
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\out\build\mypreset
+CMAKE_BINARY_DIR = C:\Users\juanc\Documents\GitHub\food_inventory\out\build\mypreset
 
 # Include any dependencies generated for this target.
 include CMakeFiles/SimpleInventory.dir/depend.make
@@ -69,46 +69,46 @@ include CMakeFiles/SimpleInventory.dir/progress.make
 include CMakeFiles/SimpleInventory.dir/flags.make
 
 CMakeFiles/SimpleInventory.dir/main.cpp.obj: CMakeFiles/SimpleInventory.dir/flags.make
-CMakeFiles/SimpleInventory.dir/main.cpp.obj: C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory/main.cpp
+CMakeFiles/SimpleInventory.dir/main.cpp.obj: C:/Users/juanc/Documents/GitHub/food_inventory/main.cpp
 CMakeFiles/SimpleInventory.dir/main.cpp.obj: CMakeFiles/SimpleInventory.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\out\build\mypreset\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SimpleInventory.dir/main.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SimpleInventory.dir/main.cpp.obj -MF CMakeFiles\SimpleInventory.dir\main.cpp.obj.d -o CMakeFiles\SimpleInventory.dir\main.cpp.obj -c C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\juanc\Documents\GitHub\food_inventory\out\build\mypreset\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SimpleInventory.dir/main.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SimpleInventory.dir/main.cpp.obj -MF CMakeFiles\SimpleInventory.dir\main.cpp.obj.d -o CMakeFiles\SimpleInventory.dir\main.cpp.obj -c C:\Users\juanc\Documents\GitHub\food_inventory\main.cpp
 
 CMakeFiles/SimpleInventory.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SimpleInventory.dir/main.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\main.cpp > CMakeFiles\SimpleInventory.dir\main.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\juanc\Documents\GitHub\food_inventory\main.cpp > CMakeFiles\SimpleInventory.dir\main.cpp.i
 
 CMakeFiles/SimpleInventory.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SimpleInventory.dir/main.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\main.cpp -o CMakeFiles\SimpleInventory.dir\main.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\juanc\Documents\GitHub\food_inventory\main.cpp -o CMakeFiles\SimpleInventory.dir\main.cpp.s
 
 CMakeFiles/SimpleInventory.dir/product.cpp.obj: CMakeFiles/SimpleInventory.dir/flags.make
-CMakeFiles/SimpleInventory.dir/product.cpp.obj: C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory/product.cpp
+CMakeFiles/SimpleInventory.dir/product.cpp.obj: C:/Users/juanc/Documents/GitHub/food_inventory/product.cpp
 CMakeFiles/SimpleInventory.dir/product.cpp.obj: CMakeFiles/SimpleInventory.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\out\build\mypreset\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SimpleInventory.dir/product.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SimpleInventory.dir/product.cpp.obj -MF CMakeFiles\SimpleInventory.dir\product.cpp.obj.d -o CMakeFiles\SimpleInventory.dir\product.cpp.obj -c C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\product.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\juanc\Documents\GitHub\food_inventory\out\build\mypreset\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SimpleInventory.dir/product.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SimpleInventory.dir/product.cpp.obj -MF CMakeFiles\SimpleInventory.dir\product.cpp.obj.d -o CMakeFiles\SimpleInventory.dir\product.cpp.obj -c C:\Users\juanc\Documents\GitHub\food_inventory\product.cpp
 
 CMakeFiles/SimpleInventory.dir/product.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SimpleInventory.dir/product.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\product.cpp > CMakeFiles\SimpleInventory.dir\product.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\juanc\Documents\GitHub\food_inventory\product.cpp > CMakeFiles\SimpleInventory.dir\product.cpp.i
 
 CMakeFiles/SimpleInventory.dir/product.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SimpleInventory.dir/product.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\product.cpp -o CMakeFiles\SimpleInventory.dir\product.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\juanc\Documents\GitHub\food_inventory\product.cpp -o CMakeFiles\SimpleInventory.dir\product.cpp.s
 
 CMakeFiles/SimpleInventory.dir/inventory.cpp.obj: CMakeFiles/SimpleInventory.dir/flags.make
-CMakeFiles/SimpleInventory.dir/inventory.cpp.obj: C:/Users/juanc/Documents/MEGA/VSCode_Cpp/SimpleInventory/inventory.cpp
+CMakeFiles/SimpleInventory.dir/inventory.cpp.obj: C:/Users/juanc/Documents/GitHub/food_inventory/inventory.cpp
 CMakeFiles/SimpleInventory.dir/inventory.cpp.obj: CMakeFiles/SimpleInventory.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\out\build\mypreset\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SimpleInventory.dir/inventory.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SimpleInventory.dir/inventory.cpp.obj -MF CMakeFiles\SimpleInventory.dir\inventory.cpp.obj.d -o CMakeFiles\SimpleInventory.dir\inventory.cpp.obj -c C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\inventory.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\juanc\Documents\GitHub\food_inventory\out\build\mypreset\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SimpleInventory.dir/inventory.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SimpleInventory.dir/inventory.cpp.obj -MF CMakeFiles\SimpleInventory.dir\inventory.cpp.obj.d -o CMakeFiles\SimpleInventory.dir\inventory.cpp.obj -c C:\Users\juanc\Documents\GitHub\food_inventory\inventory.cpp
 
 CMakeFiles/SimpleInventory.dir/inventory.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SimpleInventory.dir/inventory.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\inventory.cpp > CMakeFiles\SimpleInventory.dir\inventory.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\juanc\Documents\GitHub\food_inventory\inventory.cpp > CMakeFiles\SimpleInventory.dir\inventory.cpp.i
 
 CMakeFiles/SimpleInventory.dir/inventory.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SimpleInventory.dir/inventory.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\inventory.cpp -o CMakeFiles\SimpleInventory.dir\inventory.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\juanc\Documents\GitHub\food_inventory\inventory.cpp -o CMakeFiles\SimpleInventory.dir\inventory.cpp.s
 
 # Object files for target SimpleInventory
 SimpleInventory_OBJECTS = \
@@ -126,7 +126,7 @@ SimpleInventory.exe: CMakeFiles/SimpleInventory.dir/build.make
 SimpleInventory.exe: CMakeFiles/SimpleInventory.dir/linkLibs.rsp
 SimpleInventory.exe: CMakeFiles/SimpleInventory.dir/objects1.rsp
 SimpleInventory.exe: CMakeFiles/SimpleInventory.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\out\build\mypreset\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable SimpleInventory.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\juanc\Documents\GitHub\food_inventory\out\build\mypreset\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable SimpleInventory.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SimpleInventory.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -138,6 +138,6 @@ CMakeFiles/SimpleInventory.dir/clean:
 .PHONY : CMakeFiles/SimpleInventory.dir/clean
 
 CMakeFiles/SimpleInventory.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\out\build\mypreset C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\out\build\mypreset C:\Users\juanc\Documents\MEGA\VSCode_Cpp\SimpleInventory\out\build\mypreset\CMakeFiles\SimpleInventory.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\juanc\Documents\GitHub\food_inventory C:\Users\juanc\Documents\GitHub\food_inventory C:\Users\juanc\Documents\GitHub\food_inventory\out\build\mypreset C:\Users\juanc\Documents\GitHub\food_inventory\out\build\mypreset C:\Users\juanc\Documents\GitHub\food_inventory\out\build\mypreset\CMakeFiles\SimpleInventory.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/SimpleInventory.dir/depend
 
